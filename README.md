@@ -2,5 +2,7 @@
 
 I've been working with computers for as long as I can recall (One of my earliest memories is of playing an online Bionicle game), but I've never REALLY understood what makes computers tick. How do they do the tings they do, and WHY?
 
-I decided to teach myself all about programming, with the goal of landing myself a decent developer role. I've got a really long way to go, but I'm looking forwards to the challenges. I have a basic understanding of Python, HTML, CSS and Max/MSP, but aside from that, I know nothing. But hey, we've all got to start somewhere, right? 
+I decided to teach myself all about programming, with the goal of landing myself a decent developer role. I've got a really long way to go, but I'm looking forwards to the challenges. I have a basic understanding of Python, HTML, CSS and Max/MSP, but aside from that, I know nothing. 
+
+But hey, we've all got to start somewhere, right? 
 
