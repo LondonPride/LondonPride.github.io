@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## The Story So Far...
 
-You can use the [editor on GitHub](https://github.com/LondonPride/LondonPride.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I've been working with computers for as long as I can recall (One of my earliest memories is of playing an online Bionicle game), but I've never REALLY understood what makes computers tick. How do they do the tings they do, and WHY?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I decided to teach myself all about programming, with the goal of landing myself a decent developer role. I've got a really long way to go, but I'm looking forwards to the challenges. I have a basic understanding of Python, HTML, CSS and Max/MSP, but aside from that, I know nothing. But hey, we've all got to start somewhere, right? 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LondonPride/LondonPride.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
