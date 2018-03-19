@@ -6,3 +6,7 @@ I decided to teach myself all about programming, with the goal of landing myself
 
 But hey, we've all got to start somewhere, right? 
 
+## Raspberyy Pi
+
+So I recently picked up a Raspberry Pi for no ther reason than I thought it would help me learn to code. I've been using it to learn Python and Debian, mostly as a 'safe space' away from my computer with actual valauble files. Gotta say, I'm pretty impressed with it. 
+
